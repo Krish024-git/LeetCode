@@ -1,25 +1,12 @@
-class Solution(object):
+class Solution:
     def maxVowels(self, s, k):
-        """
-        :type s: str
-        :type k: int
-        :rtype: int
-        """
-        vowels ="aeiou"
-        count=0
 
-        for i in range(k):
-            if s[i] in vowels:
-                count +=1
-        ans =count
-        for i in range(k,len(s)):
+        v = set("aeiou")
+        cnt = sum(ch in v for ch in s[:k])
+        ans = cnt
 
-            if s[i] in vowels:
-                count +=1
+        for i in range(k, len(s)):
+            cnt += (s[i] in v) - (s[i-k] in v)
+            ans = max(ans, cnt)
 
-            if s[i-k] in vowels:
-                count -=1
-
-            ans = max(ans,count)
-
-        return ans 
+        return ans
