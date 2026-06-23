@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Krish024-git/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Krish024-git/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Krish024-git/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1200-minimum-absolute-difference](https://github.com/Krish024-git/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Krish024-git/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Krish024-git/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Hash Table
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Krish024-git/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/Krish024-git/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
