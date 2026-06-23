@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Krish024-git/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0605-can-place-flowers](https://github.com/Krish024-git/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Krish024-git/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
