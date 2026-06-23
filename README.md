@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Krish024-git/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Krish024-git/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Krish024-git/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Krish024-git/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Krish024-git/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Krish024-git/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Krish024-git/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Krish024-git/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krish024-git/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Krish024-git/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Krish024-git/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/Krish024-git/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 ## Prefix Sum
