@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Krish024-git/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Krish024-git/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Krish024-git/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/Krish024-git/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Krish024-git/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krish024-git/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Krish024-git/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Krish024-git/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Krish024-git/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Dynamic Programming
