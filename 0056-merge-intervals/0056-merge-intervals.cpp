@@ -5,15 +5,19 @@ public:
 
         sort(intervals.begin(), intervals.end());
 
-        vector<vector<int>> merged;
-        for (const auto& interval : intervals) {
-            if (merged.empty() || merged.back()[1] < interval[0]) {
-                merged.push_back(interval);
-            } else {
-                merged.back()[1] = max(merged.back()[1], interval[1]);
-            }
-        }
+        vector<vector<int>> ans;
+       
+       ans.push_back(intervals[0]);
 
-        return merged;
+       for(int i =0;i<intervals.size();i++){
+        if(intervals[i][0]<=ans.back()[1]){
+            ans.back()[1]= max(ans.back()[1],
+            intervals[i][1]);
+        }
+        else{
+            ans.push_back(intervals[i]);
+        }
+       }
+        return ans;
     }
 };
