@@ -1,13 +1,13 @@
 class Solution {
 public:
     bool isValid(string s) {
-                stack<char> stack;
-        unordered_map<char, char> mapping = {{')', '('}, {']', '['}, {'}', '{'}};
+            stack<char> stack;
+            map<char, char> mapp = {{')', '('}, {']', '['}, {'}', '{'}};
 
         for (char c : s) {
-            if (mapping.find(c) == mapping.end()) {
+            if (mapp.find(c) == mapp.end()) {
                 stack.push(c);
-            } else if (!stack.empty() && mapping[c] == stack.top()) {
+            } else if (!stack.empty() && mapp[c] == stack.top()) {
                 stack.pop();
             } else {
                 return false;
