@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Krish024-git/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Krish024-git/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Krish024-git/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0460-lfu-cache](https://github.com/Krish024-git/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Krish024-git/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -197,12 +198,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Krish024-git/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/Krish024-git/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Krish024-git/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/Krish024-git/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Krish024-git/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/Krish024-git/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
