@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Krish024-git/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
+| [0178-rank-scores](https://github.com/Krish024-git/LeetCode/tree/main/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Krish024-git/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0197-rising-temperature](https://github.com/Krish024-git/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0262-trips-and-users](https://github.com/Krish024-git/LeetCode/tree/main/0262-trips-and-users/) | Hard |
