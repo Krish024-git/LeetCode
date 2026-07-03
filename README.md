@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Krish024-git/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Krish024-git/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krish024-git/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [1032-stream-of-characters](https://github.com/Krish024-git/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Krish024-git/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Krish024-git/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Krish024-git/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Krish024-git/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Krish024-git/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Krish024-git/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1032-stream-of-characters](https://github.com/Krish024-git/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
 | [1200-minimum-absolute-difference](https://github.com/Krish024-git/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Krish024-git/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Krish024-git/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Krish024-git/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/Krish024-git/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Krish024-git/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1032-stream-of-characters](https://github.com/Krish024-git/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,4 +224,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Krish024-git/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1032-stream-of-characters](https://github.com/Krish024-git/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1032-stream-of-characters](https://github.com/Krish024-git/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
 <!---LeetCode Topics End-->
