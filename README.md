@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Krish024-git/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Krish024-git/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Krish024-git/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Krish024-git/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0460-lfu-cache](https://github.com/Krish024-git/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Krish024-git/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Two Pointers
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krish024-git/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Krish024-git/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Krish024-git/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Krish024-git/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Krish024-git/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Krish024-git/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Krish024-git/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0460-lfu-cache](https://github.com/Krish024-git/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Krish024-git/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1032-stream-of-characters](https://github.com/Krish024-git/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
@@ -223,10 +226,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Krish024-git/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Krish024-git/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1032-stream-of-characters](https://github.com/Krish024-git/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1032-stream-of-characters](https://github.com/Krish024-git/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Krish024-git/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Krish024-git/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 <!---LeetCode Topics End-->
