@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Krish024-git/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Krish024-git/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Krish024-git/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Krish024-git/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krish024-git/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Krish024-git/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Krish024-git/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,9 +207,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Krish024-git/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/Krish024-git/LeetCode/tree/main/0460-lfu-cache/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Krish024-git/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Krish024-git/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/Krish024-git/LeetCode/tree/main/0460-lfu-cache/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Krish024-git/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Krish024-git/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
