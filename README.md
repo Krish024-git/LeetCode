@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-invalid-tweets](https://github.com/Krish024-git/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Krish024-git/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/Krish024-git/LeetCode/tree/main/1934-confirmation-rate/) | Medium |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Krish024-git/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
