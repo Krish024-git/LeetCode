@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Krish024-git/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1032-stream-of-characters](https://github.com/Krish024-git/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
 | [1200-minimum-absolute-difference](https://github.com/Krish024-git/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/Krish024-git/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Krish024-git/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Krish024-git/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Hash Table
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Krish024-git/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Krish024-git/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Krish024-git/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/Krish024-git/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
