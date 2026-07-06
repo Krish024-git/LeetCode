@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0180-consecutive-numbers](https://github.com/Krish024-git/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Krish024-git/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0184-department-highest-salary](https://github.com/Krish024-git/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/Krish024-git/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0197-rising-temperature](https://github.com/Krish024-git/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0262-trips-and-users](https://github.com/Krish024-git/LeetCode/tree/main/0262-trips-and-users/) | Hard |
 | [0550-game-play-analysis-iv](https://github.com/Krish024-git/LeetCode/tree/main/0550-game-play-analysis-iv/) | Medium |
