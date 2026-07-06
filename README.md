@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1032-stream-of-characters](https://github.com/Krish024-git/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Krish024-git/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Krish024-git/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Krish024-git/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Krish024-git/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Krish024-git/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/Krish024-git/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Krish024-git/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Krish024-git/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Krish024-git/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Krish024-git/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Krish024-git/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
