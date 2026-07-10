@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Krish024-git/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Krish024-git/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Krish024-git/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Krish024-git/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krish024-git/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Krish024-git/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0146-lru-cache](https://github.com/Krish024-git/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/Krish024-git/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 ## Design
