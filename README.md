@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Krish024-git/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/Krish024-git/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Krish024-git/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Krish024-git/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krish024-git/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0200-number-of-islands](https://github.com/Krish024-git/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krish024-git/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Krish024-git/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Krish024-git/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Krish024-git/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/Krish024-git/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,9 +269,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Krish024-git/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Krish024-git/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Krish024-git/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Krish024-git/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
