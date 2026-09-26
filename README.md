@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Krish024-git/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0605-can-place-flowers](https://github.com/Krish024-git/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Krish024-git/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0724-find-pivot-index](https://github.com/Krish024-git/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Krish024-git/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1032-stream-of-characters](https://github.com/Krish024-git/LeetCode/tree/main/1032-stream-of-characters/) | Hard |
 | [1200-minimum-absolute-difference](https://github.com/Krish024-git/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Krish024-git/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/Krish024-git/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Krish024-git/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
